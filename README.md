@@ -46,7 +46,7 @@
 | 下限値・上限値.csv             | [厚労省が発表している食事摂取基準](https://www.mhlw.go.jp/stf/newpage_08517.html)（[CSV化したものはこちら](https://github.com/Biscuit01/Dietary-Reference-Intakes-for-Japanese-2020-csv)）などを参考にして、<br/>個人に合った基準値に変更 |
 | 最適化計算.ipynb               | ``計算実行``の``追加で制約``の中身を変更して独自の制約を追加 |
 
-それでは、食費最適化の内容に移ります。 
+それでは、食費最適化の内容に移ります。
 
 ## 概要
 
@@ -244,7 +244,7 @@ n-6脂肪酸 <= 2 * n-3脂肪酸
 
 ○制約式
 
-多価不飽和脂肪酸 <= 一価不飽和脂肪酸 
+多価不飽和脂肪酸 <= 一価不飽和脂肪酸
 
 ○制約理由
 
@@ -486,4 +486,3 @@ n-6脂肪酸 <= 2 * n-3脂肪酸
 
 - ステマ目的ではありません。（一応明記します。）
 - ``.github/workflows/toc.yml``は Github Actions による目次作成用に追加しています。
-- [Qiitaに紹介記事を投稿しました。](https://qiita.com/Biscuit01/items/2ead59bd970f3b82cf41)
