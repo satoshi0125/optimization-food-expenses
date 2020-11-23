@@ -42,7 +42,7 @@
 | ファイル名                     | カスタマイズ方法                                             |
 | ------------------------------ | ------------------------------------------------------------ |
 | 単位あたりの価格・栄養成分.csv | [カロリーSlism](https://calorie.slism.jp/)などを参考にして、新しい食品データを追加 |
-| 下限値・上限値.csv             | [厚労省が発表している食事摂取基準](https://www.mhlw.go.jp/stf/newpage_08517.html)（[CSV化したものはこちら](https://github.com/Biscuit01/Dietary-Reference-Intakes-for-Japanese-2020-csv)）などを参考にして、<br/>個人に合った基準値に変更 |
+| 下限値・上限値.csv             | [厚労省が発表している食事摂取基準](https://www.mhlw.go.jp/stf/newpage_08517.html)（[CSV化したものはこちら](https://github.com/satoshi0125/optimization-food-expenses/tree/master/Dietary_Reference_Intakes_for_Japanese_2020_csv)）などを参考にして、<br/>個人に合った基準値に変更 |
 | 最適化計算.ipynb               | ``計算実行``の``追加で制約``の中身を変更して独自の制約を追加 |
 
 それでは、食費最適化の内容に移ります。
