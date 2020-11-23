@@ -1,7 +1,7 @@
 # 食費最適化
 
-元は、[こちらのgithub](https://github.com/Biscuit01/food-cost-optimization)になります。<br>
-以下は、大元のgitの内容を僕自身の身体にfitさせて、数式の内部処理を変更させた内容になります。
+元は、[こちら](https://qiita.com/Biscuit01/items/2ead59bd970f3b82cf41)になります。<br>
+以下は、上記の内容を僕自身の身体にfitさせて、数式の内部処理などを変更させた内容になります。
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
